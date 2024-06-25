@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Shape
-{
+{                               
     internal class Program                    
     {
         static void Main(string[] args)
